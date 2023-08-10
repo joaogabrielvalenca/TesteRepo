@@ -1,0 +1,60 @@
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+  top: 0;
+  background-color: green;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+  font: sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+#linkedin {
+  display: block;
+}
+
+.links {
+  font-size: 12px;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+  display: block;
+  padding-left: 20px;
+  line-height: 12px;
+}
+
+
+.licoes {
+  display: inline-block;
+}
+
+.textos {
+  display: flex;
+  text-align: justify;
+}
+
+article {
+  width: 65%;
+}
+
+aside {
+  padding-left: 40px;
+  width: 25%;
+}
+
+footer {
+  font-weight: 600;
+}
